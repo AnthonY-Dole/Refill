@@ -68,8 +68,9 @@ const Cards =({children}) => {
                     <button onClick={() => {
                       console.log(card.id);
                        deleteCard({ variables: { id: card.id }
+                        
                      });
-     
+                     window.location.reload();
     }}>
                       <FontAwesomeIcon color="#FA4D53" className="edit-icon"  icon={faTrash} size="lg"/>
                       </button>
