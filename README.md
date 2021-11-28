@@ -2,22 +2,22 @@
  👋</h1>
 <p align="center">
 
-## Resumé :bookmark_tabs:
 
 
-### 🏠 [PagePrincipale](https://github.com/AnthonY-Dole/CoinHybridApp)
 
-## Navigation
+### 🏠 [MainPage](https://github.com/AnthonY-Dole/CoinHybridApp)
+
+## MainPage
 
 <p align="center">
- <img src ="wallet.png" title = "Icon" alt = "Icon" width="200" height="400" >
+ <img src ="./Wallet.png" title = "Icon" alt = "Icon" width="200" height="400" >
 
 </p>
 
 
 ## Prerequisites :warning:
--npm
--mongoDB
+MongoDB
+
 
 
 
