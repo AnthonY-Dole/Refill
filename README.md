@@ -5,12 +5,12 @@
 
 
 
-### 🏠 [MainPage](https://github.com/AnthonY-Dole/CoinHybridApp)
+### 🏠 [MainPage]
 
-## MainPage
+
 
 <p align="center">
- <img src ="https://github.com/AnthonY-Dole/Refill/blob/master/Wallet.png" title = "main" alt = "main" width="200" height="400" >
+ <img src ="https://github.com/AnthonY-Dole/Refill/blob/master/Wallet.PNG" title = "main" alt = "main" >
 
 </p>
 
