@@ -1,0 +1,31 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type CardType {
+  id: ID!
+  name: String!
+  date: String!
+  activationCode: Int!
+  color: String!
+  credit: String!
+}
+
+type Query {
+  cards: [CardType!]!
+  hello: String!
+}
+
+type Mutation {
+  createCard(input: CardInput!): CardType!
+  updateCard(input: CardInput!, id: String!): CardType!
+  deleteCard(id: String!): CardType!
+}
+
+input CardInput {
+  name: String!
+  date: String!
+  activationCode: Int!
+  color: String!
+  credit: String!
+}

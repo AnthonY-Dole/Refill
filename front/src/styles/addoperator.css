@@ -1,0 +1,38 @@
+.form 			  { 
+  
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+  }
+.input 				{
+  
+    width:20%;
+    background: #79797923;
+    padding:15px;
+    border-radius:15px;
+    border: 1px solid #ffffff;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+    height:50px;
+  font-size:x-large;
+   
+  }
+
+  .btn {
+	display: inline-block;
+	background: transparent;
+	color: inherit;
+	font: inherit;
+	border: 0;
+	outline: 0;
+	padding: 0;
+	transition: all 200ms ease-in;
+	cursor: pointer;
+  }	
+	
+  .nav-link{
+    
+     text-decoration:none; 
+    
+  }

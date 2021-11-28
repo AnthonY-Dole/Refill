@@ -1,0 +1,55 @@
+.faArrow-iconarrow{
+
+    font-size:40px;
+}
+
+.faPlus-iconadd {
+    display: table-cell;
+    vertical-align: middle;
+    width:100px;
+    height:100px;
+    line-height:100px;
+    border:2px solid #FA4D53;
+    border-radius: 50%;
+    color:#FFF;
+    text-align:center;
+    text-decoration:none;
+    background: #FFFFFF;
+    box-shadow: 0 0 4px black;
+    font-family: GalanoGrotesque;
+    font-size:35px;
+    font-weight:bold;     
+      
+  }
+  .grid-container-title { 
+    display:grid; 
+    grid-template-columns: 1fr ; 
+    grid-gap: 20px; 
+
+
+  } 
+  .grid-container-menu { 
+    display:grid; 
+    grid-template-columns: 6fr 1fr ; 
+    grid-gap: 20px; 
+
+
+  } 
+  .grid-child-return { 
+    margin: 20px; 
+
+  }
+.card-update-delete{
+width: 100%;
+border: 2px solid #FA4D53;
+}
+
+  .grid-child-title { 
+    padding: 10px;
+    margin-right: -3%;
+    font-family: GalanoGrotesque;
+  }
+  .grid-child-btn { 
+    margin: 20px; 
+    
+  }

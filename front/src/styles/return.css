@@ -1,0 +1,22 @@
+.faArrow-iconarrow{
+
+    font-size:40px;
+}
+
+.grid-container-navbar { 
+  display:grid; 
+  grid-template-columns: 1fr 1fr 1fr ; 
+  grid-gap: 20px; 
+  
+  font-family: GalanoGrotesque;
+  } 
+  .grid-child-return { 
+ 
+    margin: 20px; 
+
+  }
+  .grid-child-Title{
+    margin: 20px; 
+    text-align: center;
+
+  }
